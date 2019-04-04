@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Droid\\DTBImageSource.Droid.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Droid\\DTBImageSource.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Droid\\DTBImageSource.Droid.csproj",
+        "projectName": "DTBImageSource.Droid",
+        "projectPath": "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Droid\\DTBImageSource.Droid.csproj",
+        "packagesPath": "C:\\Users\\pdeco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Droid\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pdeco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid80"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid80": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid80": {
+          "dependencies": {
+            "Uno.Microsoft.Xaml.Behaviors.Interactivity": {
+              "target": "Package",
+              "version": "[2.0.1-uno.28, )"
+            },
+            "Uno.Microsoft.Xaml.Behaviors.Uwp.Managed": {
+              "target": "Package",
+              "version": "[2.0.1-uno.28, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[1.43.1, )"
+            },
+            "Uno.UniversalImageLoader": {
+              "target": "Package",
+              "version": "[1.9.32, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

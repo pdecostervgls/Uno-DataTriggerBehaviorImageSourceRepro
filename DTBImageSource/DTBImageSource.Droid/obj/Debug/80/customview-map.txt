@@ -1,0 +1,13 @@
+attr;C:\Users\pdeco\source\repos\UnoRepros\DTBImageSource\DTBImageSource\DTBImageSource.Droid\obj\Debug\80\lp\11\jl\res\values\attrs.xml
+declare-styleable;C:\Users\pdeco\source\repos\UnoRepros\DTBImageSource\DTBImageSource\DTBImageSource.Droid\obj\Debug\80\lp\11\jl\res\values\attrs.xml
+item;C:\Users\pdeco\source\repos\UnoRepros\DTBImageSource\DTBImageSource\DTBImageSource.Droid\obj\Debug\80\lp\11\jl\res\values\styles.xml
+item;obj\Debug\80\res\values\styles.xml
+resources;C:\Users\pdeco\source\repos\UnoRepros\DTBImageSource\DTBImageSource\DTBImageSource.Droid\obj\Debug\80\lp\11\jl\res\values\attrs.xml
+resources;C:\Users\pdeco\source\repos\UnoRepros\DTBImageSource\DTBImageSource\DTBImageSource.Droid\obj\Debug\80\lp\11\jl\res\values\styles.xml
+resources;obj\Debug\80\res\values\resources_resw-strings.xml
+resources;obj\Debug\80\res\values\strings.xml
+resources;obj\Debug\80\res\values\styles.xml
+string;obj\Debug\80\res\values\resources_resw-strings.xml
+string;obj\Debug\80\res\values\strings.xml
+style;C:\Users\pdeco\source\repos\UnoRepros\DTBImageSource\DTBImageSource\DTBImageSource.Droid\obj\Debug\80\lp\11\jl\res\values\styles.xml
+style;obj\Debug\80\res\values\styles.xml

@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Wasm\\DTBImageSource.Wasm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Wasm\\DTBImageSource.Wasm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Wasm\\DTBImageSource.Wasm.csproj",
+        "projectName": "DTBImageSource.Wasm",
+        "projectPath": "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Wasm\\DTBImageSource.Wasm.csproj",
+        "packagesPath": "C:\\Users\\pdeco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pdeco\\source\\repos\\UnoRepros\\DTBImageSource\\DTBImageSource\\DTBImageSource.Wasm\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pdeco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU1701"
+          ],
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[1.43.1, )"
+            },
+            "Uno.Wasm.Bootstrap": {
+              "target": "Package",
+              "version": "[1.0.0-dev.137, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

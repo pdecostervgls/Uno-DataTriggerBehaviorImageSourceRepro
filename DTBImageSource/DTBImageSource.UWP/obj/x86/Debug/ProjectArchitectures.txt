@@ -1,0 +1,1 @@
+C:\Users\pdeco\source\repos\UnoRepros\DTBImageSource\DTBImageSource\DTBImageSource.UWP\DTBImageSource.UWP.csproj;x86
